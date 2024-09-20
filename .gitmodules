@@ -1,0 +1,6 @@
+[submodule "libs/drogon"]
+	path = libs/drogon
+	url = https://github.com/drogonframework/drogon.git
+[submodule "libs/libwebrtc"]
+	path = libs/libwebrtc
+	url = https://github.com/webrtc-sdk/libwebrtc.git
